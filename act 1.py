@@ -1,4 +1,4 @@
-#teble of 23
+#table of 23
 i=1
 n=int(input("enter a number"))
 while i<11:
